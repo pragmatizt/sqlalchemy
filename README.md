@@ -2,7 +2,6 @@
 Exploring relationship between sqlite3, sqlalchemy, and .py notebook
 
 # TERMINAL
-=====================================
 ### After adding a new tower, check on terminal:
 - go to your directory
 - python db.py
@@ -16,7 +15,5 @@ Exploring relationship between sqlite3, sqlalchemy, and .py notebook
 - run python db.py 
 - type result.  Now you should see list of towernames
 
-
 # WARNING
-======================================
 - If new values are already in DB, it will cause an error.
